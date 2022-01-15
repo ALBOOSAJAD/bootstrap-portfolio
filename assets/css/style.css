@@ -209,7 +209,7 @@ a:hover{
 .service1{
     FONT-SIZE: 24PT;
     RIGHT: 43%;
-    top: 25%;
+    top: 24%;
     color: #000000ba;
 }
 .text-center{
@@ -237,6 +237,13 @@ h4{
     padding: 10px;
     font-size: 16pt;
     font-family: ui-monospace;
+}
+.righ{
+width: 47%!important;
+margin-left: 33px;
+}
+.num{
+    color: black;
 }
 .slid{
    margin-top: 50px;
@@ -288,7 +295,9 @@ h4{
     flex-wrap: wrap;
     animation: transform 3s linear 3s infinite ;
 }
-
+.dev{
+    background: #f49508d9;
+}
 .bt{
     border: 2px solid orange;
     width: 58px;
